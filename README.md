@@ -1,2 +1,9 @@
-## Hi ! My name is Daniel Aranda Martín; I'm a young web developer :smiley:
-I love working with teams and I enjoy developing new ideas that involve innovation and creativity :fire:
+### Hi ! My name is Daniel Aranda and I am a young web developer :wave:
+
+Right now I'm working developing :
+
+- innovated web apps :boom:
+- learning new technologies :grin:
+- practicing web programming :+1:
+- my creativity and skills :star:
+- and enjoying my way :blush: 
