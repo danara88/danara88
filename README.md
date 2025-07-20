@@ -1,4 +1,4 @@
-### Hi ! My name is Daniel Aranda and I am a young web developer :wave:
+### Hi ! My name is Daniel Aranda and I am a software engineer :wave:
 
 Right now I'm working developing :
 
