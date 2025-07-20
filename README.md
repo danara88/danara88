@@ -1,9 +1,15 @@
-### Hi ! My name is Daniel Aranda and I am a software engineer :wave:
+## Hi there! I'm Daniel Aranda — a passionate Software Engineer 👨‍💻
 
-Right now I'm working developing :
+Currently, I'm focused on:
 
-- innovated web apps :boom:
-- learning new technologies :grin:
-- practicing web programming :+1:
-- my creativity and skills :star:
-- and enjoying my way :blush: 
+🚀 Building innovative web applications
+
+📚 Exploring and learning new technologies
+
+🧠 Practicing and refining my web development skills
+
+🎨 Boosting my creativity and problem-solving abilities
+
+😄 Enjoying the journey and growing every day
+
+**Let's build something amazing together!**
